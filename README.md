@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+This is my 2nd github acc 
+my first acc is https://github.com/Smb1234567
+but its shadowbanned 
 <!--
 **AceMythos/AceMythos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
