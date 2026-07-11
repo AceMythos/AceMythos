@@ -3,7 +3,9 @@
 This is my 2nd github acc! My first acc is https://github.com/Smb1234567
 but its shadowbanned — raised two tickets but still not resolved.
 
-When I moved from Pop!_OS 22.04 to 24.04, I lost my GNOME extensions.
+Linux journey: Pop!_OS 22.04 (1yr) → Fedora + Hyprland (2mo) → Mint/Kali → Pop!_OS 24.04.
+
+When I moved to 24.04, I lost my GNOME extensions.
 So I built COSMIC applets to fill those gaps:
 
 - **ClipManager** — Clipboard history for the COSMIC panel
