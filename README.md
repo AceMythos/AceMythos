@@ -29,8 +29,8 @@ CSE student who's more interested in breaking things than the syllabus. Cybersec
 ### numbers
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AceMythos&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceMythos&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=AceMythos&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AceMythos&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
