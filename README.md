@@ -7,14 +7,14 @@ vishwanath@GSKSJTI:~$ whoami
 ```
 
 ```
-OS   : Pop!_OS (thinking about jumping ship)
+OS   : Pop!_OS 22.04 → 24.04
 Editor : nano, don't judge me
 Studies : CSE @ GSKSJTI Bengaluru, VTU — 4th yr / 7th sem
 Doing : maintaining cosmic-connect + cosmic-power-monitor
 GitHub : this is acc #2, first one (Smb1234567) got shadowbanned
 ```
 
-CSE student who's more interested in breaking things than the syllabus. Cybersecurity leaning, but most of what I actually ship lately is Rust — a few COSMIC desktop applets because I got tired of missing GNOME extensions after switching desktops. Been distro-hopping for a while now (Mint, Fedora/Hyprland, Pop!_OS, Kali) and currently trying to figure out if it's worth leaving Pop!_OS 22.04 for something with better battery management on this RTX 3050. Also doing TryHackMe rooms on the side and slowly working through CTFs.
+CSE student who's more interested in breaking things than the syllabus. Cybersecurity leaning, but most of what I actually ship lately is Rust — a few COSMIC desktop applets because I got tired of missing GNOME extensions after jumping from Pop!_OS 22.04 to 24.04. Been distro-hopping for a while now (Mint, Fedora/Hyprland, Pop!_OS, Kali). Also doing TryHackMe rooms on the side and slowly working through CTFs.
 
 **stack** `Rust` `Python` `JavaScript` `Bash` — `Nmap` `Wireshark` `Burp Suite` — `D-Bus` `libcosmic` — `Scikit-learn` `Pandas` `Next.js`
 
