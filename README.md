@@ -29,19 +29,19 @@ CSE student who's more interested in breaking things than the syllabus. Cybersec
 ### numbers
 
 <p align="center">
-  <img height="160" src="https://github-stats-extended.vercel.app/api?username=AceMythos&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AceMythos&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=AceMythos&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AceMythos&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <a href="https://github.com/AceMythos?tab=overview&from=2026-01-01&to=2026-12-31">
-    <img alt="PRs" src="https://img.shields.io/badge/PRs-9-blue?style=for-the-badge&logo=github">
+    <img alt="Pull Requests" src="https://img.shields.io/badge/Pull%20Requests-9-blue?style=for-the-badge&logo=github">
   </a>
   <a href="https://github.com/AceMythos?tab=overview&from=2026-01-01&to=2026-12-31">
-    <img alt="PRs merged" src="https://img.shields.io/badge/merged-6-green?style=for-the-badge&logo=github">
+    <img alt="Merged" src="https://img.shields.io/badge/Merged-6-success?style=for-the-badge&logo=github">
   </a>
   <a href="https://github.com/AceMythos?tab=overview&from=2026-01-01&to=2026-12-31">
-    <img alt="PRs open" src="https://img.shields.io/badge/open-1-yellow?style=for-the-badge&logo=github">
+    <img alt="Open" src="https://img.shields.io/badge/Open-1-yellow?style=for-the-badge&logo=github">
   </a>
 </p>
 
