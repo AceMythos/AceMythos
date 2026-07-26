@@ -8,7 +8,7 @@ vishwanath@GSKSJTI:~$ whoami
 
 ```
 OS   : Pop!_OS 22.04 → 24.04
-Editor : nano, don't judge me
+Editor : nano
 Studies : CSE @ GSKSJTI Bengaluru, VTU — 4th yr / 7th sem
 Doing : maintaining cosmic-connect + cosmic-power-monitor
 GitHub : this is acc #2, first one (Smb1234567) got shadowbanned
