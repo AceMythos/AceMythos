@@ -16,3 +16,7 @@
 
 ---
 reach me: [vishwanathsanapuro8@gmail.com](mailto:vishwanathsanapuro8@gmail.com)
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub Koi">
+</p>
